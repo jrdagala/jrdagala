@@ -1,0 +1,32 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          user: jrdagala
+          template: classic
+          plugin_activity: yes
+          plugin_achievements: yes
+          plugin_contributors: yes
+          plugin_followup: yes
+          plugin_habits: yes
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_people: yes
+          plugin_repositories: yes
+          plugin_stars: yes
+          plugin_streak: yes
+          plugin_traffic: yes 
