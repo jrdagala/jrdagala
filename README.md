@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <b>Hi there, I'm Jeff 👋</b><br>
-  <i>Full Stack JavaScript/TypeScript Engineer | DevOps & Cloud Enthusiast</i>
+  <i>Full Stack Software Engineer | DevOps & Cloud Enthusiast | Problem Solver</i>
 </p>
 
 ---
