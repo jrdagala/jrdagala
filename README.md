@@ -18,7 +18,13 @@
 - Languages: TypeScript, JavaScript, SQL
 - Frontend: React, Next.js, HTML5, CSS3
 - Backend: Node.js, Express.js, NestJS
-- Tools: Git, Docker, AWS, VS Code
+- DevOps & Cloud:
+  - Containerization: Docker, Kubernetes
+  - CI/CD: GitHub Actions, Bitbucket Pipelines
+  - Cloud: AWS (EC2, S3, Lambda, ECS)
+  - Infrastructure: Terraform
+  - Monitoring: Prometheus, Grafana
+- Tools: Git, VS Code
 - Databases: PostgreSQL, MongoDB
 - Testing: Jest, React Testing Library
 
