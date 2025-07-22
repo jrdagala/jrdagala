@@ -19,7 +19,7 @@
 I'm always open to collaboration, networking, or just a friendly chat!
 
 **Email me:**  
-[![Gmail Badge](https://img.shields.io/badge/-jrdagala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jrdagala@gmail.com)](mailto:jrdagala@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jrdagala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jrdagala@gmail.com)](mailto:hello@jrdagala.com)
 
 **Connect on LinkedIn:**  
 [![LinkedIn Badge](https://img.shields.io/badge/-jrdagala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrdagala/)](https://www.linkedin.com/in/jrdagala/)
